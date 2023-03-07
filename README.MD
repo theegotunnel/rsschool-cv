@@ -1,1 +1,1 @@
-# This repo for RS School.
+https://theegotunnel.github.io/rsschool-cv/cv
