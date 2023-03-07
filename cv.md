@@ -35,12 +35,12 @@ showTime();
 
 A2 - B1;
 
-## Educ0ation:
+## Education:
 
-2022 — freeCodeCamp — Responsive Web Design
-2022 — freeCodeCamp — Basic JavaScript
-2022 — Build Responsive Real-World Websites with HTML and CSS
-2016 — VSTU — Faculty of Economics and Business Management
+- 2022 — freeCodeCamp — Responsive Web Design
+- 2022 — freeCodeCamp — Basic JavaScript
+- 2022 — Build Responsive Real-World Websites with HTML and CSS
+- 2016 — VSTU — Faculty of Economics and Business Management
 
 ## About Me
 
